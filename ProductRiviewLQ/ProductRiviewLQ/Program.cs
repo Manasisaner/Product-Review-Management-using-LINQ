@@ -31,3 +31,6 @@ management.RetrieveCountOfRecords(productReviewList);
 //UC5
 management.RetriveProductIdAndReview(productReviewList);
 Console.ReadLine();
+//UC6
+management.SkipRecord(productReviewList);
+Console.ReadLine();
