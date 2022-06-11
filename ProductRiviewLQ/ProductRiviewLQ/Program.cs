@@ -28,3 +28,5 @@ Management management = new Management();
 
 //UC3
 //management.SelectedRecords(productReviewList);
+//UC4
+//management.RetrieveCountOfRecords(productReviewList);
